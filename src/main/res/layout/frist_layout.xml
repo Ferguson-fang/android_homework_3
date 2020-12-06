@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <Button
+        android:id="@+id/button_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击进入登入界面"
+        android:layout_marginTop="10dp"
+    />
+    <Button
+        android:id="@+id/rv_demo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="recyclerView"
+        />
+    <Button
+        android:id="@+id/ViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ViewPager"
+        />
+    <Button
+        android:id="@+id/fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fragment"/>
+
+    <Button
+        android:id="@+id/vp_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="vp_fragment" />
+    <Button
+        android:id="@+id/level_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="level_2" />
+
+
+
+</LinearLayout>
